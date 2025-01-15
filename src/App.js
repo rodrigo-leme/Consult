@@ -75,7 +75,7 @@ function App() {
       <AppContainer>
         <Header>
           {<Logo src={logo} alt="FinanciaMais Consultoria Logo" /> }
-          <h1>FinanciaMais Consultoria</h1>
+          <h1>Emperor Consulting</h1>
         </Header>
         <Nav>
           <NavList>
@@ -94,7 +94,7 @@ function App() {
           </Routes>
         </Main>
         <Footer>
-          <p>&copy; 2025 FinanciaMais Consultoria. Todos os direitos reservados.</p>
+          <p>&copy; 2025 Emperor Consulting - Consultoria. Todos os direitos reservados.</p>
         </Footer>
       </AppContainer>
     </Router>
